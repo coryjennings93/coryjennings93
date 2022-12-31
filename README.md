@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on  website for a revenue cycle agency.
+- 🔭 I’m currently finishing my bachelor's degree in CIT at WKU.
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on any beginner friendly React projects
 - 🤔 I’m looking for help with how to share MongoDB databases that connect to a github project.
